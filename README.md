@@ -117,7 +117,7 @@ Configuração Personalizada
 bash
 
 ./myproxy --config /caminho/para/config.conf weechat
-´´´
+```
 
 ## ⚙️ Configuração
 
