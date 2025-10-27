@@ -52,12 +52,13 @@ bash
 
 # Navegar com firefox
 ./myproxy firefox
+```
 
 Configuração Personalizada
-bash
+```bash
 
 ./myproxy --config /caminho/para/config.conf weechat
-
+```
 ⚙️ Configura# ProxyCPP
 
 **Ferramenta de Proxy em C++ para Redirecionamento de Tráfego de Rede**
@@ -157,7 +158,7 @@ logs/
 └── wget.log              # Log específico do wget
 
 Monitoramento em Tempo Real
-bash
+```bash
 
 # Ver todos os logs do sistema
 tail -f logs/myproxy_general.log
@@ -167,6 +168,7 @@ tail -f logs/weechat.log
 
 # Ver apenas logs do curl
 tail -f logs/curl.log
+```
 
 🔗 Tipos de Cadeia de Proxies
 dynamic_chain (Padrão)
